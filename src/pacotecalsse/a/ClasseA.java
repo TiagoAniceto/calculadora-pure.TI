@@ -6,7 +6,7 @@
 package pacotecalsse.a;
 
 /**
- *
+ * pure.TI
  * @author Tiago Aniceto
  */
 public class ClasseA extends javax.swing.JFrame {
